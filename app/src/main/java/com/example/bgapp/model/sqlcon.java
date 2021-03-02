@@ -4,6 +4,9 @@ import java.sql.*;
 
 
 public class sqlcon  {
+    /* I dont know how to connect this to the controller needs more research.
+        for now i got volly working so what can you do abt it.
+        */
     private static String URL_REGIST= "jdbc:mysql://192.168.43.199:3309/bgapp";
     private String User="gk";
     private String Pass="gk";
